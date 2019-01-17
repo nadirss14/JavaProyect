@@ -1,6 +1,7 @@
 com\nadirss14\services\PerfilServices.class
 com\nadirss14\model\User.class
 com\nadirss14\SiteNadirss14Application.class
+com\nadirss14\util\BasicConfiguration.class
 com\nadirss14\util\SwaggerConfiguration.class
 com\nadirss14\repository\UserRepository.class
 com\nadirss14\model\Perfil.class
